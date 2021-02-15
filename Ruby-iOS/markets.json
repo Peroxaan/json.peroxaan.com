@@ -1,0 +1,44 @@
+{
+"markets": [
+    {
+        "name": "Germany (German)",
+        "code": "de-DE"
+    },
+    {
+        "name": "Australia (English)",
+        "code": "en-AU"
+    },
+    {
+        "name": "United Kingdom (English)",
+        "code": "en-GB"
+    },
+    {
+        "name": "United States (English)",
+        "code": "en-US"
+    },
+    {
+        "name": "Canada (English)",
+        "code": "en-CA"
+    },
+    {
+        "name": "India (English)",
+        "code": "en-IN"
+    },
+    {
+        "name": "France (French)",
+        "code": "fr-FR"
+    },
+    {
+        "name": "Canada (French)",
+        "code": "fr-CA"
+    },
+    {
+        "name": "Brazil (Portuguese)",
+        "code": "pt-BR"
+    },
+    {
+        "name": "China (Chinese)",
+        "code": "zh-CN"
+    }
+]
+}
