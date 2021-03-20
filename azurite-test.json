@@ -12,7 +12,7 @@
     },
     {
 	    "name": "Apple",
-	    "sign": "AAPL",
+	    "sign": "$AAPL",
 	    "price": "$119.99",
     },
     {
