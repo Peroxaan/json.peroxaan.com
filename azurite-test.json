@@ -14,11 +14,6 @@
 	    "name": "Apple",
 	    "sign": "$AAPL",
 	    "price": "$119.99"
-    },
-    {
-	    "name": "Peroxaan",
-	    "sign": "$PXS",
-	    "price": "$420.69"
     }
   ]
 }
