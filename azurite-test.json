@@ -3,22 +3,22 @@
     {
 	    "name": "Amazon.com",
 	    "sign": "$AMZN",
-	    "price": "$2680.38",
+	    "price": "$2680.38"
     },
     {
 	    "name": "Tesla",
 	    "sign": "$TSLA",
-	    "price": "$654.87",
+	    "price": "$654.87"
     },
     {
 	    "name": "Apple",
 	    "sign": "$AAPL",
-	    "price": "$119.99",
+	    "price": "$119.99"
     },
     {
 	    "name": "Peroxaan",
 	    "sign": "$PXS",
-	    "price": "$420.69",
-    },
+	    "price": "$420.69"
+    }
   ]
 }
