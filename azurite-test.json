@@ -14,6 +14,11 @@
 	    "name": "Apple",
 	    "sign": "$AAPL",
 	    "price": "$119.99"
+    },
+    {
+	    "name": "Alphabet",
+	    "sign": "$GOOG",
+	    "price": "$2035.55"
     }
   ]
 }
