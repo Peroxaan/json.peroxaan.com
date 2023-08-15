@@ -1,14 +1,29 @@
 {
 "countries": [
   {
-    "code": "MY",
-    "name": "Malaysia",
-    "flag": ""
+    "code": "US",
+    "name": "United States",
+    "flag": "🇺🇸"
   },
   {
     "code": "GB",
     "name": "United Kingdom",
-    "flag": ""
+    "flag": "🇬🇧"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "flag": "🇦🇺"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "flag": "🇮🇳"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "flag": "🇲🇾"
   },
   {
     "code": "CN",
@@ -18,11 +33,6 @@
   {
     "code": "TW",
     "name": "Taiwan",
-    "flag": ""
-  },
-  {
-    "code": "AU",
-    "name": "Australia",
     "flag": ""
   },
   {
@@ -63,11 +73,6 @@
   {
     "code": "NA",
     "name": "Namibia",
-    "flag": ""
-  },
-  {
-    "code": "IN",
-    "name": "India",
     "flag": ""
   },
   {
@@ -173,11 +178,6 @@
   {
     "code": "CU",
     "name": "Cuba",
-    "flag": ""
-  },
-  {
-    "code": "US",
-    "name": "United States",
     "flag": ""
   },
   {
