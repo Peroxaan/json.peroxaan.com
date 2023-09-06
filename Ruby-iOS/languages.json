@@ -1,85 +1,199 @@
-
 {
-"languages": [
-    {
-        "name": "English",
-        "code": "en"
-    },
-    {
-        "name": "Spanish",
-        "code": "es"
-    },
-    {
-        "name": "French",
-        "code": "fr"
-    },
-    {
-        "name": "Chinese",
-        "code": "zh"
-    },
-    {
-        "name": "Japanese",
-        "code": "ja"
-    },
-    {
-        "name": "Italian",
-        "code": "it"
-    },
-    {
-        "name": "Haitian Creole",
-        "code": "ht"
-    },
-    {
-        "name": "Hindi",
-        "code": "hi"
-    },
-    {
-        "name": "Hebrew",
-        "code": "he"
-    },
-    {
-        "name": "Arabic",
-        "code": "ar"
-    },
-    {
-        "name": "German",
-        "code": "de"
-    },
-    {
-        "name": "Greek",
-        "code": "el"
-    },
-    {
-        "name": "Indonesian",
-        "code": "id"
-    },
-    {
-        "name": "Italian",
-        "code": "it"
-    },
-    {
-        "name": "Irish",
-        "code": "ga"
-    },
-    {
-        "name": "Korean",
-        "code": "ko"
-    },
-    {
-        "name": "Latin",
-        "code": "la"
-    },
-    {
-        "name": "Malay",
-        "code": "ms"
-    },
-    {
-        "name": "Russian",
-        "code": "ru"
-    },
-    {
-        "name": "Portuguese",
-        "code": "pt"
-    }
-]
+    "languages": [
+        {
+            "name": "English",
+            "code": "en",
+            "flag": "🇺🇸"
+        },
+        {
+            "name": "Spanish (Latin America)",
+            "code": "es-419",
+            "flag": "🌎"
+        },
+        {
+            "name": "French",
+            "code": "fr",
+            "flag": "🇫🇷"
+        },
+        {
+            "name": "Korean",
+            "code": "ko",
+            "flag": "🇰🇷"
+        },
+        {
+            "name": "Italian",
+            "code": "it",
+            "flag": "🇮🇹"
+        },
+        {
+            "name": "Simplified Chinese",
+            "code": "zh-Hans",
+            "flag": "🇨🇳"
+        },
+        {
+            "name": "Traditional Chinese",
+            "code": "zh-Hant",
+            "flag": "🇹🇼"
+        },
+        {
+            "name": "Indonesian",
+            "code": "id",
+            "flag": "🇮🇩"
+        },
+        {
+            "name": "Czech",
+            "code": "cs",
+            "flag": "🇨🇿"
+        },
+        {
+            "name": "Ukrainian",
+            "code": "uk",
+            "flag": "🇺🇦"
+        },
+        {
+            "name": "Hebrew",
+            "code": "he",
+            "flag": "🇮🇱"
+        },
+        {
+            "name": "Arabic",
+            "code": "ar",
+            "flag": "🇸🇦"
+        },
+        {
+            "name": "German",
+            "code": "de",
+            "flag": "🇩🇪"
+        },
+        {
+            "name": "Japanese",
+            "code": "ja",
+            "flag": "🇯🇵"
+        },
+        {
+            "name": "Latvian",
+            "code": "lv",
+            "flag": "🇱🇻"
+        },
+        {
+            "name": "Lithuanian",
+            "code": "lt",
+            "flag": "🇱🇹"
+        },
+        {
+            "name": "Malayalam",
+            "code": "ml",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": "Thai",
+            "code": "th",
+            "flag": "🇹🇭"
+        },
+        {
+            "name": "Hungarian",
+            "code": "hu",
+            "flag": "🇭🇺"
+        },
+        {
+            "name": "Dutch",
+            "code": "nl",
+            "flag": "🇳🇱"
+        },
+        {
+            "name": "Norwegian",
+            "code": "no",
+            "flag": "🇳🇴"
+        },
+        {
+            "name": "Polish",
+            "code": "pl",
+            "flag": "🇵🇱"
+        },
+        {
+            "name": "Portuguese (Latin America)",
+            "code": "pt-419",
+            "flag": "🇧🇷"
+        },
+        {
+            "name": "Portuguese (Europe)",
+            "code": "pt-150",
+            "flag": "🇵🇹"
+        },
+        {
+            "name": "Romanian",
+            "code": "ro",
+            "flag": "🇷🇴"
+        },
+        {
+            "name": "Slovak",
+            "code": "sk",
+            "flag": "🇸🇰"
+        },
+        {
+            "name": "Slovenian",
+            "code": "sl",
+            "flag": "🇸🇮"
+        },
+        {
+            "name": "Swedish",
+            "code": "sv",
+            "flag": "🇸🇪"
+        },
+        {
+            "name": "Vietnamese",
+            "code": "vi",
+            "flag": "🇻🇳"
+        },
+        {
+            "name": "Turkish",
+            "code": "tr",
+            "flag": "🇹🇷"
+        },
+        {
+            "name": "Greek",
+            "code": "el",
+            "flag": "🇬🇷"
+        },
+        {
+            "name": "Bulgarian",
+            "code": "bg",
+            "flag": "🇧🇬"
+        },
+        {
+            "name": "Russian",
+            "code": "ru",
+            "flag": "🇷🇺"
+        },
+        {
+            "name": "Serbian",
+            "code": "sr",
+            "flag": "🇷🇸"
+        },
+        {
+            "name": "Marathi",
+            "code": "mr",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": "Hindi",
+            "code": "hi",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": "Bengali",
+            "code": "bn",
+            "flag": "🇧🇩"
+        },
+        {
+            "name": "Tamil",
+            "code": "ta",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": "Telugu",
+            "code": "te",
+            "flag": "🇮🇳"
+        }
+    ]
 }
